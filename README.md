@@ -13,3 +13,4 @@ loss 같은 경우 original loss와 forweightloss가 있는데 loss 파일에 �
 
 teacher_cheackpoint는 https://github.com/Vincent-Hoo/Knowledge-Distillation-for-Super-resolution.git 에 가서 rcanx4 다운받고 파일 따로 생성해서 넣어줘야함.
 code/data/ 아래에 dataset 파일(구글드라이브) 추가해줘야함
+experiment에 test파일(구글드라이브) 추가해줘야함
