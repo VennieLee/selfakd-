@@ -5,12 +5,19 @@ fakd
 |-- code   
 |-- teacher_checkpoint   
 |-- experiment   
+    
     |-- fakd_RCAN   
+    
     |-- fakd_SRResnet   
+    
     |-- self_RCAN   
+    
     |-- self_SRResnet   
+        
         |-- model   
+        
         |-- result   
+            
             |-- ...   
    
 teacher_cheackpoint는 https://github.com/Vincent-Hoo/Knowledge-Distillation-for-Super-resolution.git 에 가서 rcanx4 다운받고 파일 따로 생성해서 넣어줘야함.   
